@@ -1,4 +1,4 @@
-package com.example.basjep
+package com.yonatan.gasjepang
 
 import io.flutter.embedding.android.FlutterActivity
 
